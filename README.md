@@ -1,2 +1,0 @@
-# eatnsplit
-Basic React Code. 
